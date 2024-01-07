@@ -42,3 +42,15 @@ button:hover {
   background-color: var(--white);
   color: var(--orange);
 }
+
+.container2 {
+  background-color: var(--dark-blue);
+  width: 90%;
+  max-width: 500px;
+}
+
+.select {
+  color: var(--orange);
+  background-color: var(--medium-grey);
+  max-width: fit-content;
+}
